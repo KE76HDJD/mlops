@@ -1,0 +1,11 @@
+customer_id,tenure,monthly_charges,support_calls,contract,churn
+C001,24,45.5,1,monthly,0
+C002,3,85.2,6,monthly,1
+C003,36,39.9,0,yearly,0
+C004,6,72.4,5,monthly,1
+C005,18,55.8,2,monthly,0
+C006,2,91.3,7,monthly,1
+C007,48,42.1,0,yearly,0
+C008,8,68.7,4,monthly,1
+C009,30,49.5,1,yearly,0
+C010,5,79.8,6,monthly,1
